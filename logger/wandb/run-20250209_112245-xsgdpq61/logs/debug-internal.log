@@ -1,0 +1,16 @@
+{"time":"2025-02-09T11:22:45.705628017+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home/mscer/workingspace/longcot_llm/models/wandb/run-20250209_112245-xsgdpq61/logs/debug-core.log"}
+{"time":"2025-02-09T11:22:45.813759279+08:00","level":"INFO","msg":"created new stream","id":"xsgdpq61"}
+{"time":"2025-02-09T11:22:45.813830229+08:00","level":"INFO","msg":"stream: started","id":"xsgdpq61"}
+{"time":"2025-02-09T11:22:45.813878302+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"xsgdpq61"}
+{"time":"2025-02-09T11:22:45.813954906+08:00","level":"INFO","msg":"handler: started","stream_id":"xsgdpq61"}
+{"time":"2025-02-09T11:22:45.813994784+08:00","level":"INFO","msg":"sender: started","stream_id":"xsgdpq61"}
+{"time":"2025-02-09T11:22:56.303167008+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-09T11:22:56.461921074+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-09T11:22:56.462300747+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-09T11:22:57.423107847+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.81463129,"progress":"1.1KB/1.1KB"},{"desc":"uploading requirements.txt","runtime_seconds":0.709494676,"progress":"4.7KB/4.7KB"},{"desc":"uploading history steps 0-0, summary","runtime_seconds":0.349673602},{"desc":"updating run config","runtime_seconds":0.349623997}],"total_operations":4}}
+{"time":"2025-02-09T11:22:58.347362568+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-09T11:23:07.726333578+08:00","level":"INFO","msg":"stream: closing","id":"xsgdpq61"}
+{"time":"2025-02-09T11:23:07.726347369+08:00","level":"INFO","msg":"handler: closed","stream_id":"xsgdpq61"}
+{"time":"2025-02-09T11:23:07.726354414+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"xsgdpq61"}
+{"time":"2025-02-09T11:23:07.726361294+08:00","level":"INFO","msg":"sender: closed","stream_id":"xsgdpq61"}
+{"time":"2025-02-09T11:23:07.726388579+08:00","level":"INFO","msg":"stream: closed","id":"xsgdpq61"}

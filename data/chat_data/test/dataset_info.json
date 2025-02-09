@@ -1,0 +1,49 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "countdown_tasks",
+  "dataset_size": 19927578,
+  "description": "",
+  "download_checksums": {
+    "/home/mscer/workingspace/longcot_llm/data/countdown_tasks/data/train-00000-of-00001.parquet": {
+      "num_bytes": 2845904,
+      "checksum": null
+    }
+  },
+  "download_size": 2845904,
+  "features": {
+    "target": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "nums": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 22773482,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 19927578,
+      "num_examples": 490364,
+      "dataset_name": "countdown_tasks"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

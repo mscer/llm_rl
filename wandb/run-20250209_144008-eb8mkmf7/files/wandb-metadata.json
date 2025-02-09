@@ -1,0 +1,40 @@
+{
+  "os":  "Linux-5.15.0-72-generic-x86_64-with-glibc2.31",
+  "python":  "CPython 3.10.15",
+  "startedAt":  "2025-02-09T06:40:08.687801Z",
+  "program":  "<python with no main file>",
+  "git":  {
+    "remote":  "git@github.com:mscer/longcot_llm.git",
+    "commit":  "8779012ac78fc3657a44be524cfda5a0c989f3da"
+  },
+  "email":  "jiaqi.zjq@hotmail.com",
+  "root":  "/home/mscer/workingspace/longcot_llm",
+  "host":  "mscer-zjq",
+  "executable":  "/home/mscer/workingspace/anaconda3/envs/handson_llm/bin/python",
+  "cpu_count":  6,
+  "cpu_count_logical":  12,
+  "gpu":  "NVIDIA GeForce RTX 3060",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "39997431808",
+      "used":  "29733650432"
+    }
+  },
+  "memory":  {
+    "total":  "16482725888"
+  },
+  "cpu":  {
+    "count":  6,
+    "countLogical":  12
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 3060",
+      "memoryTotal":  "12884901888",
+      "cudaCores":  3584,
+      "architecture":  "Ampere"
+    }
+  ],
+  "cudaVersion":  "12.4"
+}
