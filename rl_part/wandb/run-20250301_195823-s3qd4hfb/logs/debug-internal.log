@@ -1,0 +1,26 @@
+{"time":"2025-03-01T19:58:24.176596216+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home/mscer/workingspace/longcot_llm/rl_part/wandb/run-20250301_195823-s3qd4hfb/logs/debug-core.log"}
+{"time":"2025-03-01T19:58:24.282692285+08:00","level":"INFO","msg":"created new stream","id":"s3qd4hfb"}
+{"time":"2025-03-01T19:58:24.282745902+08:00","level":"INFO","msg":"stream: started","id":"s3qd4hfb"}
+{"time":"2025-03-01T19:58:24.282838857+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"s3qd4hfb"}
+{"time":"2025-03-01T19:58:24.282919307+08:00","level":"INFO","msg":"handler: started","stream_id":"s3qd4hfb"}
+{"time":"2025-03-01T19:58:24.284072817+08:00","level":"INFO","msg":"sender: started","stream_id":"s3qd4hfb"}
+{"time":"2025-03-01T19:58:25.811901769+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-01T19:58:36.491084131+08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-01T19:58:57.321994957+08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-01T19:59:07.207297106+08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-01T19:59:08.482626867+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jiaqi-zjq/huggingface/s3qd4hfb/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: read udp 127.0.0.1:59347->127.0.0.53:53: i/o timeout"}
+{"time":"2025-03-01T19:59:20.618707275+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jiaqi-zjq/huggingface/s3qd4hfb/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: read udp 127.0.0.1:46650->127.0.0.53:53: i/o timeout"}
+{"time":"2025-03-01T20:00:51.435485279+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jiaqi-zjq/huggingface/s3qd4hfb/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: read udp 127.0.0.1:54873->127.0.0.53:53: i/o timeout"}
+{"time":"2025-03-01T20:19:51.462527774+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jiaqi-zjq/huggingface/s3qd4hfb/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: read udp 127.0.0.1:59444->127.0.0.53:53: i/o timeout"}
+{"time":"2025-03-01T20:20:51.463967771+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jiaqi-zjq/huggingface/s3qd4hfb/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: read udp 127.0.0.1:46203->127.0.0.53:53: i/o timeout"}
+{"time":"2025-03-01T20:28:21.476607429+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jiaqi-zjq/huggingface/s3qd4hfb/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: read udp 127.0.0.1:56809->127.0.0.53:53: i/o timeout"}
+{"time":"2025-03-01T20:33:51.481854483+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jiaqi-zjq/huggingface/s3qd4hfb/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: read udp 127.0.0.1:51514->127.0.0.53:53: i/o timeout"}
+{"time":"2025-03-01T20:34:48.971785928+08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-01T20:34:49.018849866+08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-01T20:34:58.363617644+08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-01T20:34:58.406787012+08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-01T20:35:36.224509445+08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-01T20:35:36.884075203+08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-01T20:36:12.182243772+08:00","level":"INFO","msg":"stream: closing","id":"s3qd4hfb"}
+{"time":"2025-03-01T20:36:12.182266841+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-01T20:36:12.182979572+08:00","level":"INFO","msg":"Stopped system monitor"}
