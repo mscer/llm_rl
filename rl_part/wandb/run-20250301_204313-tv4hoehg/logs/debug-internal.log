@@ -1,0 +1,11 @@
+{"time":"2025-03-01T20:43:13.44739523+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home/mscer/workingspace/longcot_llm/rl_part/wandb/run-20250301_204313-tv4hoehg/logs/debug-core.log"}
+{"time":"2025-03-01T20:43:13.554292211+08:00","level":"INFO","msg":"created new stream","id":"tv4hoehg"}
+{"time":"2025-03-01T20:43:13.554323758+08:00","level":"INFO","msg":"stream: started","id":"tv4hoehg"}
+{"time":"2025-03-01T20:43:13.554339301+08:00","level":"INFO","msg":"sender: started","stream_id":"tv4hoehg"}
+{"time":"2025-03-01T20:43:13.554342149+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"tv4hoehg"}
+{"time":"2025-03-01T20:43:13.554376064+08:00","level":"INFO","msg":"handler: started","stream_id":"tv4hoehg"}
+{"time":"2025-03-01T20:43:13.954814973+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-01T20:45:44.974639599+08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-01T20:45:45.014807277+08:00","level":"INFO","msg":"stream: closing","id":"tv4hoehg"}
+{"time":"2025-03-01T20:45:45.01483074+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-01T20:45:45.015337581+08:00","level":"INFO","msg":"Stopped system monitor"}

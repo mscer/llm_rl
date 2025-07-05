@@ -1,0 +1,5 @@
+`use_cache=True` is incompatible with gradient checkpointing. Setting `use_cache=False`.
+/home/mscer/workingspace/anaconda3/envs/handson_llm/lib/python3.10/site-packages/bitsandbytes/nn/modules.py:451: UserWarning: Input type into Linear4bit is torch.float16, but bnb_4bit_compute_dtype=torch.float32 (default). This will lead to slow inference or training speed.
+  warnings.warn(
+/home/mscer/workingspace/anaconda3/envs/handson_llm/lib/python3.10/site-packages/torch/utils/checkpoint.py:87: UserWarning: None of the inputs have requires_grad=True. Gradients will be None
+  warnings.warn(
