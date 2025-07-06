@@ -1,2 +1,5 @@
 rl_part/wandb/run-*
+*.safetensors
+*.ipynb_checkpoints
 *.log
+*/infer_result/*
