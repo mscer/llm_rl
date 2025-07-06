@@ -3,3 +3,4 @@ rl_part/wandb/run-*
 *.ipynb_checkpoints
 *.log
 */infer_result/*
+*/optimizer_pt
